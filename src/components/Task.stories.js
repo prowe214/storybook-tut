@@ -12,7 +12,7 @@ export default {
 
 export const taskData = {
     id: '1',
-    title: 'Test Task',
+    title: 'Test task',
     state: 'TASK_INBOX',
     updatedAt: new Date(2019, 0, 1, 9, 0),
 };
